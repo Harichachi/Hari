@@ -5,10 +5,14 @@
 }
 h1{
    text-shadow:0 -1 0.2 orange; 
+    margin:1em;
 }
 .sind{
     border-style:solid;
     box-shadow:0 -1 0.2 black;
+    border-radius:1em;
+    margin:1em;
+    display:flex;
 }
 .sind img{
     width:20px;
