@@ -1,5 +1,5 @@
 <?xml version = "1.0" encoding = "utf-8"?>
-<feed xmlns = "http://www.w3.org/2005/Atom" id = "https://harichachi.github.io/Hari/atom.xml">
+<feed xmlns = "http://www.w3.org/2005/Atom">
 
     <title>Noticias guays con Atom</title>
     <link rel = "self" type = "application/atom+xml" href = "atom.xml"/>
