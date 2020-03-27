@@ -4,8 +4,9 @@
     margin:auto;
 }
 h1{
-   text-shadow:0em 1em 0.2em orange; 
-    margin:1em;
+   text-shadow:0em 1em 0.2em orange;
+   text-align:center;
+   margin:1em;
 }
 .sind{
     border-style:solid;
