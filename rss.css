@@ -1,0 +1,24 @@
+*{
+    padding:0;
+    box-sizing: border-box;
+    margin:auto;
+}
+h1{
+    color:lightpink;
+    text-align:center;
+    padding:5%;
+}
+.noticia{
+    text-align:justify;
+    padding-left:30%;
+    padding-right:30%;
+    padding-bottom: 5%;
+}
+p{
+    margin:0.5em;
+}
+h3{
+    color:lightpink;
+    text-align:center;
+    padding:5%;
+}
