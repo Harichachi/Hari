@@ -4,13 +4,13 @@
     margin:auto;
 }
 h1{
-   text-shadow:0em -1em 0.2em orange;
+   text-shadow:0em 0.5em 1em orange;
    text-align:center;
    margin:1em;
 }
 .sind{
     border-style:solid;
-    box-shadow:0em -1em 0.2em black;
+    box-shadow:0em 0.5em 1em black;
     border-radius:1em;
     margin:2em;
     widtht:50%;
