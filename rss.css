@@ -4,19 +4,21 @@
     margin:auto;
 }
 h1{
-   text-shadow:0 -1 0.2 orange; 
+   text-shadow:0em -1em 0.2em orange; 
     margin:1em;
 }
 .sind{
     border-style:solid;
-    box-shadow:0 -1 0.2 black;
+    box-shadow:0em -1em 0.2em black;
     border-radius:1em;
-    margin:1em;
+    margin:2em;
+    padding:2em;
     display:flex;
 }
 .sind img{
     width:5em;
     height:2.5em;
+    padding:1em;
 }
 .sind a>img{
     width:10em;
