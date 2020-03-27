@@ -7,7 +7,7 @@
 
     <entry>
         <title> Tiempo en Santa Cruz de Tenerife con Atom</title>
-        <link rel = "alternate" href = "https://www.tiempo.es/"> "https://www.tiempo.es/</link>
+        <link rel = "alternate" href = "https://www.tiempo.es/" />
         <id>https://www.tiempo.es/</id>
         <updated>2020-03-25T19:00:00-01:00</updated>
         <content> Descubre qué día hace hoy en Santa Cruz de Tenerife </content>
@@ -16,7 +16,7 @@
 
     <entry>
         <title> Niccolo Bonifazio vence al sprint en la quinta etapa de la París-Niza con Atom</title>
-        <link rel = "alternate" href = "https://harichachi.github.io/Hari/">https://harichachi.github.io/Hari/ </link>
+        <link rel = "alternate" href = "https://harichachi.github.io/Hari/"/>
         <id>https://harichachi.github.io/Hari/</id>
         <updated>2020-03-24T19:00:00-01:00</updated>
         <content> El ciclista italiano Niccolo Bonifazio (TDE) ha logrado la victoria en la quinta etapa de la París-Niza</content>
@@ -25,7 +25,7 @@
 
     <entry>
         <title> Siete páginas para aprender a programar durante la cuarentena con Atom</title>
-        <link rel = "alternate" href = "https://www.elmundo.es/tecnologia/trucos/2020/03/26/5e7b75dbfdddff442b8b45d4.html"> https://www.elmundo.es/tecnologia/trucos/2020/03/26/5e7b75dbfdddff442b8b45d4.html </link>
+        <link rel = "alternate" href = "https://www.elmundo.es/tecnologia/trucos/2020/03/26/5e7b75dbfdddff442b8b45d4.html"/>
         <id>https://www.elmundo.es/tecnologia/trucos/2020/03/26/5e7b75dbfdddff442b8b45d4.html</id>
         <updated>2020-03-23T19:00:00-01:00</updated>
         <content> Repasamos las mejores páginas para aprovechar la cuarentena para aprender nociones básicas -o algo mas de programación</content>
