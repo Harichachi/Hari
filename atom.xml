@@ -2,6 +2,7 @@
 <feed xmlns = "http://www.w3.org/2005/Atom">
 
     <title>Noticias guays con Atom</title>
+    <id>https://harichachi.github.io/Hari/atom.xml</id>
     <link rel = "self" type = "application/atom+xml" href = "atom.xml"/>
     <updated>2020-03-26T19:00:00-01:00</updated>
 
