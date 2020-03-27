@@ -4,7 +4,7 @@
     margin:auto;
 }
 h1{
-   text-shadow:0em 1em 0.2em orange;
+   text-shadow:0em -1em 0.2em orange;
    text-align:center;
    margin:1em;
 }
@@ -18,8 +18,8 @@ h1{
     display:flex;
 }
 .sind img{
-    width:5em;
-    height:2.5em;
+    width:10em;
+    height:5em;
     padding:1em;
 }
 .sind a>img{
