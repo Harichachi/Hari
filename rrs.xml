@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<rss version="2.0" rel = "self" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title> Actividad de RRS </title>
+        <link> noticia.html </link>
+        <description> Noticias súper interesantes </description>
+        <language> ES </language>
+
+        <item> 
+            <title> Tiempo en Santa Cruz de Tenerife </title>
+            <link> https://www.tiempo.es/</link>
+            <description> Descubre qué día hace hoy en Santa Cruz de Tenerife </description>
+        </item>
+
+        <item> 
+            <title> Niccolo Bonifazio vence al sprint en la quinta etapa de la París-Niza </title>
+            <link> https://harichachi.github.io/Hari/</link>
+            <description> El ciclista italiano Niccolo Bonifazio (TDE) ha logrado la victoria en la quinta etapa de la París-Niza</description>
+        </item>
+
+        <item> 
+            <title> Siete páginas para aprender a programar durante la cuarentena</title>
+            <link> https://www.elmundo.es/tecnologia/trucos/2020/03/26/5e7b75dbfdddff442b8b45d4.html</link>
+            <description> Repasamos las mejores páginas para aprovechar la cuarentena para aprender nociones básicas -o algo mas de programación</description>
+        </item>
+
+    </channel>
+
+</rss>
